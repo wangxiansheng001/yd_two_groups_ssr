@@ -1,0 +1,166 @@
+[2018-04-21T16:50:50.948] [ERROR] cheese - 页面丢了
+[2018-04-21T16:51:06.661] [ERROR] cheese - TypeError: ctx.render is not a function
+    at HelloController.getUser (/home/wang/Desktop/koa2/build/controllers/HelloController.js:50:30)
+    at memberInvoker (/home/wang/Desktop/koa2/node_modules/awilix-koa/lib/invokers.js:80:45)
+    at dispatch (/home/wang/Desktop/koa2/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/wang/Desktop/koa2/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/wang/Desktop/koa2/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/home/wang/Desktop/koa2/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /home/wang/Desktop/koa2/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/home/wang/Desktop/koa2/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/home/wang/Desktop/koa2/node_modules/koa-compose/index.js:42:32)
+    at /home/wang/Desktop/koa2/node_modules/koa-compose/index.js:34:12
+[2018-04-21T16:53:25.146] [ERROR] cheese - TypeError: ctx.render is not a function
+    at HelloController.getUser (/home/wang/Desktop/koa2/build/controllers/HelloController.js:51:30)
+    at memberInvoker (/home/wang/Desktop/koa2/node_modules/awilix-koa/lib/invokers.js:80:45)
+    at dispatch (/home/wang/Desktop/koa2/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/wang/Desktop/koa2/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/wang/Desktop/koa2/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/home/wang/Desktop/koa2/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /home/wang/Desktop/koa2/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/home/wang/Desktop/koa2/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/home/wang/Desktop/koa2/node_modules/koa-compose/index.js:42:32)
+    at /home/wang/Desktop/koa2/node_modules/koa-compose/index.js:34:12
+[2018-04-21T16:54:06.823] [ERROR] cheese - TypeError: ctx.render is not a function
+    at HelloController.getUser (/home/wang/Desktop/koa2/build/controllers/HelloController.js:52:30)
+    at memberInvoker (/home/wang/Desktop/koa2/node_modules/awilix-koa/lib/invokers.js:80:45)
+    at dispatch (/home/wang/Desktop/koa2/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/wang/Desktop/koa2/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/wang/Desktop/koa2/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/home/wang/Desktop/koa2/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /home/wang/Desktop/koa2/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/home/wang/Desktop/koa2/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/home/wang/Desktop/koa2/node_modules/koa-compose/index.js:42:32)
+    at /home/wang/Desktop/koa2/node_modules/koa-compose/index.js:34:12
+[2018-04-21T16:58:12.030] [ERROR] cheese - { Error: ENOENT: no such file or directory, open '/home/wang/Desktop/koa2/build/views/index.html'
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/wang/Desktop/koa2/build/views/index.html' }
+[2018-04-21T16:59:16.432] [ERROR] cheese - 页面丢了
+[2018-04-21T16:59:26.219] [ERROR] cheese - 页面丢了
+[2018-04-21T16:59:36.678] [ERROR] cheese - 页面丢了
+[2018-04-21T16:59:40.472] [ERROR] cheese - 页面丢了
+[2018-04-21T16:59:55.753] [ERROR] cheese - 页面丢了
+[2018-04-21T17:00:00.792] [ERROR] cheese - 页面丢了
+[2018-04-21T17:00:05.881] [ERROR] cheese - 页面丢了
+[2018-04-21T17:01:09.840] [ERROR] cheese - 页面丢了
+[2018-04-21T17:12:47.149] [ERROR] cheese - 页面丢了
+[2018-04-21T17:30:53.474] [ERROR] cheese - 页面丢了
+[2018-04-21T17:31:47.535] [ERROR] cheese - 页面丢了
+[2018-04-21T17:33:00.842] [ERROR] cheese - 页面丢了
+[2018-04-21T17:34:29.733] [ERROR] cheese - 页面丢了
+[2018-04-21T17:35:47.937] [ERROR] cheese - 页面丢了
+[2018-04-21T17:37:03.866] [ERROR] cheese - 页面丢了
+[2018-04-21T17:38:34.635] [ERROR] cheese - 页面丢了
+[2018-04-21T17:41:10.291] [ERROR] cheese - 页面丢了
+[2018-04-21T17:41:46.470] [ERROR] cheese - 页面丢了
+[2018-04-21T17:42:00.470] [ERROR] cheese - 页面丢了
+[2018-04-21T17:42:21.108] [ERROR] cheese - 页面丢了
+[2018-04-21T17:42:21.916] [ERROR] cheese - 页面丢了
+[2018-04-21T17:42:22.734] [ERROR] cheese - 页面丢了
+[2018-04-21T17:42:23.542] [ERROR] cheese - 页面丢了
+[2018-04-21T17:42:24.323] [ERROR] cheese - 页面丢了
+[2018-04-21T17:42:25.112] [ERROR] cheese - 页面丢了
+[2018-04-21T17:42:25.732] [ERROR] cheese - 页面丢了
+[2018-04-21T17:43:40.123] [ERROR] cheese - 页面丢了
+[2018-04-21T17:43:41.262] [ERROR] cheese - 页面丢了
+[2018-04-21T17:43:41.941] [ERROR] cheese - 页面丢了
+[2018-04-21T17:43:42.487] [ERROR] cheese - 页面丢了
+[2018-04-21T17:44:21.622] [ERROR] cheese - 页面丢了
+[2018-04-21T17:44:22.573] [ERROR] cheese - 页面丢了
+[2018-04-21T17:44:23.354] [ERROR] cheese - 页面丢了
+[2018-04-21T17:44:23.939] [ERROR] cheese - 页面丢了
+[2018-04-21T17:44:24.448] [ERROR] cheese - 页面丢了
+[2018-04-21T17:44:24.716] [ERROR] cheese - 页面丢了
+[2018-04-21T17:44:25.020] [ERROR] cheese - 页面丢了
+[2018-04-21T17:44:25.479] [ERROR] cheese - 页面丢了
+[2018-04-21T17:44:25.727] [ERROR] cheese - 页面丢了
+[2018-04-21T17:44:44.639] [ERROR] cheese - 页面丢了
+[2018-04-21T17:44:45.464] [ERROR] cheese - 页面丢了
+[2018-04-21T17:44:45.763] [ERROR] cheese - 页面丢了
+[2018-04-21T17:44:45.981] [ERROR] cheese - 页面丢了
+[2018-04-21T17:44:46.167] [ERROR] cheese - 页面丢了
+[2018-04-21T17:44:58.417] [ERROR] cheese - 页面丢了
+[2018-04-21T17:46:13.716] [ERROR] cheese - 页面丢了
+[2018-04-21T17:46:14.496] [ERROR] cheese - 页面丢了
+[2018-04-21T17:46:15.001] [ERROR] cheese - 页面丢了
+[2018-04-21T17:46:15.217] [ERROR] cheese - 页面丢了
+[2018-04-21T17:46:15.418] [ERROR] cheese - 页面丢了
+[2018-04-21T17:46:15.622] [ERROR] cheese - 页面丢了
+[2018-04-21T17:46:15.854] [ERROR] cheese - 页面丢了
+[2018-04-21T17:46:16.054] [ERROR] cheese - 页面丢了
+[2018-04-21T17:46:16.256] [ERROR] cheese - 页面丢了
+[2018-04-21T17:46:16.486] [ERROR] cheese - 页面丢了
+[2018-04-21T17:46:16.702] [ERROR] cheese - 页面丢了
+[2018-04-21T17:46:17.158] [ERROR] cheese - 页面丢了
+[2018-04-21T17:46:17.368] [ERROR] cheese - 页面丢了
+[2018-04-21T17:48:10.003] [ERROR] cheese - 页面丢了
+[2018-04-21T17:48:19.809] [ERROR] cheese - 页面丢了
+[2018-04-21T17:48:21.668] [ERROR] cheese - 页面丢了
+[2018-04-21T17:48:22.348] [ERROR] cheese - 页面丢了
+[2018-04-21T17:48:22.941] [ERROR] cheese - 页面丢了
+[2018-04-21T17:48:23.196] [ERROR] cheese - 页面丢了
+[2018-04-21T17:48:23.446] [ERROR] cheese - 页面丢了
+[2018-04-21T17:48:23.716] [ERROR] cheese - 页面丢了
+[2018-04-21T17:48:23.927] [ERROR] cheese - 页面丢了
+[2018-04-21T17:48:24.141] [ERROR] cheese - 页面丢了
+[2018-04-21T17:48:24.362] [ERROR] cheese - 页面丢了
+[2018-04-21T17:48:24.595] [ERROR] cheese - 页面丢了
+[2018-04-21T17:48:24.840] [ERROR] cheese - 页面丢了
+[2018-04-21T17:48:25.125] [ERROR] cheese - 页面丢了
+[2018-04-21T17:51:02.118] [ERROR] cheese - 页面丢了
+[2018-04-21T17:51:02.604] [ERROR] cheese - 页面丢了
+[2018-04-21T17:51:02.835] [ERROR] cheese - 页面丢了
+[2018-04-21T17:51:03.067] [ERROR] cheese - 页面丢了
+[2018-04-21T17:51:03.304] [ERROR] cheese - 页面丢了
+[2018-04-21T17:51:03.583] [ERROR] cheese - 页面丢了
+[2018-04-21T17:51:03.817] [ERROR] cheese - 页面丢了
+[2018-04-21T17:51:04.095] [ERROR] cheese - 页面丢了
+[2018-04-21T17:51:04.588] [ERROR] cheese - 页面丢了
+[2018-04-21T17:51:04.865] [ERROR] cheese - 页面丢了
+[2018-04-21T17:51:11.250] [ERROR] cheese - 页面丢了
+[2018-04-21T17:51:11.781] [ERROR] cheese - 页面丢了
+[2018-04-21T17:51:12.005] [ERROR] cheese - 页面丢了
+[2018-04-21T17:54:13.742] [ERROR] cheese - 页面丢了
+[2018-04-21T17:54:14.495] [ERROR] cheese - 页面丢了
+[2018-04-21T17:54:14.709] [ERROR] cheese - 页面丢了
+[2018-04-21T17:54:14.972] [ERROR] cheese - 页面丢了
+[2018-04-21T17:54:15.313] [ERROR] cheese - 页面丢了
+[2018-04-21T17:54:15.512] [ERROR] cheese - 页面丢了
+[2018-04-21T17:54:15.729] [ERROR] cheese - 页面丢了
+[2018-04-21T17:54:57.412] [ERROR] cheese - 页面丢了
+[2018-04-21T17:54:58.053] [ERROR] cheese - 页面丢了
+[2018-04-21T17:54:58.267] [ERROR] cheese - 页面丢了
+[2018-04-21T17:54:58.501] [ERROR] cheese - 页面丢了
+[2018-04-21T17:54:58.770] [ERROR] cheese - 页面丢了
+[2018-04-21T17:54:59.009] [ERROR] cheese - 页面丢了
+[2018-04-21T17:54:59.433] [ERROR] cheese - 页面丢了
+[2018-04-21T17:54:59.668] [ERROR] cheese - 页面丢了
+[2018-04-21T17:55:10.980] [ERROR] cheese - 页面丢了
+[2018-04-21T17:56:38.509] [ERROR] cheese - 页面丢了
+[2018-04-21T17:56:39.377] [ERROR] cheese - 页面丢了
+[2018-04-21T17:56:39.962] [ERROR] cheese - 页面丢了
+[2018-04-21T17:56:40.198] [ERROR] cheese - 页面丢了
+[2018-04-21T17:56:40.459] [ERROR] cheese - 页面丢了
+[2018-04-21T17:56:40.760] [ERROR] cheese - 页面丢了
+[2018-04-21T17:56:45.139] [ERROR] cheese - 页面丢了
+[2018-04-21T17:56:45.944] [ERROR] cheese - 页面丢了
+[2018-04-21T17:56:46.750] [ERROR] cheese - 页面丢了
+[2018-04-21T17:56:47.212] [ERROR] cheese - 页面丢了
+[2018-04-21T17:56:47.499] [ERROR] cheese - 页面丢了
+[2018-04-21T17:56:47.775] [ERROR] cheese - 页面丢了
+[2018-04-21T17:57:03.632] [ERROR] cheese - 页面丢了
+[2018-04-21T17:57:04.313] [ERROR] cheese - 页面丢了
+[2018-04-21T17:57:04.610] [ERROR] cheese - 页面丢了
+[2018-04-21T17:57:28.618] [ERROR] cheese - 页面丢了
+[2018-04-21T17:57:29.382] [ERROR] cheese - 页面丢了
+[2018-04-21T17:57:29.953] [ERROR] cheese - 页面丢了
+[2018-04-21T17:57:30.240] [ERROR] cheese - 页面丢了
+[2018-04-21T17:57:30.484] [ERROR] cheese - 页面丢了
+[2018-04-21T17:57:30.743] [ERROR] cheese - 页面丢了
+[2018-04-21T17:57:31.488] [ERROR] cheese - 页面丢了
+[2018-04-21T17:57:31.733] [ERROR] cheese - 页面丢了
+[2018-04-21T17:57:41.620] [ERROR] cheese - 页面丢了
+[2018-04-22T14:24:40.190] [ERROR] cheese - 页面丢了
+[2018-04-22T15:57:17.324] [ERROR] cheese - 页面丢了
